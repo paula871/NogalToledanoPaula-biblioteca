@@ -17,7 +17,4 @@ Autor
 =======
 NogalToledanoPaula
 
-primer commit en la rama 1
-
-hago el último commit y los unimos todos en github
-
+segundo commit en main
