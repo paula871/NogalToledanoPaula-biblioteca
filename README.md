@@ -22,4 +22,3 @@ primer commit en la rama 1
 
 hago el último commit y los unimos todos en github
 
->>>>>>> origin/main
