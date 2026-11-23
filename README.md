@@ -12,7 +12,10 @@ Aplicación en Java para gestionar los préstamos de una biblioteca. Permite reg
 
 ##Autor 
 NogalToledanoPaula
+<<<<<<< HEAD
 
 primer commit en la rama 1
 
 hago el último commit y los unimos todos en github
+=======
+>>>>>>> origin/main
