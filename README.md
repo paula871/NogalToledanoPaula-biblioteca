@@ -16,7 +16,6 @@ Uso
 Autor 
 =======
 NogalToledanoPaula
-<<<<<<< HEAD
 
 primer commit en la rama 1
 
